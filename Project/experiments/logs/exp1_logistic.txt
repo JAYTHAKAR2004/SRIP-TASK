@@ -1,0 +1,8 @@
+Experiment: Logistic Regression
+TF-IDF Features: 5000
+N-grams: (1,1)
+Accuracy: 78%
+F1 Score: 0.76
+
+Observation:
+Good baseline model but struggles with context.

@@ -1,0 +1,5 @@
+{
+  "model": "svm",
+  "features": 7000,
+  "ngram": [1,2]
+}

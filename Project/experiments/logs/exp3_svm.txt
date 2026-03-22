@@ -1,0 +1,8 @@
+Experiment: SVM
+TF-IDF Features: 7000
+N-grams: (1,2)
+Accuracy: 81%
+F1 Score: 0.79
+
+Observation:
+Better accuracy but slower training.

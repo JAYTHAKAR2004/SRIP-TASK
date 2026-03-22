@@ -1,0 +1,7 @@
+Experiment: Naive Bayes
+TF-IDF Features: 5000
+Accuracy: 72%
+F1 Score: 0.70
+
+Observation:
+Fastest model but lowest accuracy.

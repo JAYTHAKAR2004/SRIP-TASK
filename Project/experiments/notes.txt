@@ -1,0 +1,5 @@
+Observations:
+- Logistic Regression performed best overall
+- Naive Bayes is fastest but less accurate
+- SVM improved performance but increased training time
+- Using bigrams significantly improved results

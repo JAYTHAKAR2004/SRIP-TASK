@@ -1,0 +1,5 @@
+{
+  "model": "logistic_regression",
+  "features": 5000,
+  "ngram": [1,1]
+}
